@@ -1,2 +1,2 @@
 # Data_Challenge
-All the data challenge I participated during school
+All the data challenges I participated during school
